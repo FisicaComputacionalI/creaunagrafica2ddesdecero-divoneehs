@@ -7,9 +7,5 @@ plt.xlabel("Semestre")
 plt.ylabel("Promedio")
 plt.title("Promedio general por semestre cursado")
 pl.savefig('promedioporsemestre')
-"""
-Editor de Spyder
 
-Este es un archivo temporal
-"""
 
